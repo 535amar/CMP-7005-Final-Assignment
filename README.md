@@ -1,5 +1,8 @@
 # CMP-7005-Final-Assignment
-Indian air quality  
+Indian air quality
+
+Working images of the app
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/48cb0127-a318-4aa1-974d-2fd930fa0f02" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5cbefc34-e9fd-4b19-b89b-b1198028b934" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73f6ef19-718f-4719-94ec-56c614e2cd85" />
